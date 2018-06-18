@@ -1,1 +1,2 @@
-# data-structure
+# Dara structures
+Some examples of data structures written in Java.
